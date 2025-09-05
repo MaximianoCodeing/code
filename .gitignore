@@ -1,0 +1,10 @@
+Desktop.ini
+.DS_Store
+.fleet
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Node and next.
+node_modules
