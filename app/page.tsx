@@ -1,3 +1,5 @@
+import utils from "@components/utils.module.scss"
+
 export default function Home() {
-  return <div>Placeholder</div>
+  return <div className={utils.placeholder}>Placeholder</div>
 }

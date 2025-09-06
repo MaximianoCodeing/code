@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+  user-select: none;
+  font-family: sans-serif;
+}
+
+// Adaptive theme at root.
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+
+  $light-foreground: #232526;
+  $light-background: #fefdfa;
+  $dark-foreground: #cdcbca;
+  $dark-background: #212323;
+
+  @media (prefers-color-scheme: light) {
+    --foreground: #{$light-foreground};
+    --background: #{$light-background};
+  }
+
+  @media (prefers-color-scheme: dark) {
+    --foreground: #{$dark-foreground};
+    --background: #{$dark-background};
+  }
+}
