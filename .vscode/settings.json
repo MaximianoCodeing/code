@@ -13,11 +13,17 @@
   // "explorer.fileNesting.enabled": true,
   // "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
+    "tsconfig.json": "tsconfig.tsbuildinfo",
     "package.json": "pnpm-lock.yaml",
     "readme.md": "license"
   },
 
   // Code spell checker (require recommended extensions).
-  "cSpell.ignorePaths": ["node_modules", "pnpm-lock.yaml"],
-  "cSpell.words": ["esbenp", "oxlint"]
+  "cSpell.ignorePaths": [
+    ".next",
+    "node_modules",
+    "pnpm-lock.yaml",
+    "next-env.d.ts"
+  ],
+  "cSpell.words": ["esbenp", "oxlint", "turbopack", "vercel"]
 }
